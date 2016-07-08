@@ -16,7 +16,10 @@ $(document).ready(function() {
 		"back stabbing",
 		"great",
 		"weapons-grade",
-		"witless"
+		"witless",
+		"hateful",
+		"low-rent",
+		"spineless"
 	];
 
 	var adjectives2 = [
@@ -25,7 +28,9 @@ $(document).ready(function() {
 		"boil‑in‑the‑bag",
 		"arse‑cheeked",
 		"ventriloquist‑dummy‑faced",
-		"spam faced"
+		"spam faced",
+		"garden-variety",
+		"cack-handed"
 	];
 
 	var nouns = [
@@ -47,13 +52,17 @@ $(document).ready(function() {
 		"moron",
 		"twat",
 		"bell",
+		"bellend",
+		"tegget",
 		"tube",
 		"helmet",
 		"nobberhead",
 		"wazzock",
 		"trombone",
 		"numpty",
-		"tit"
+		"tit",
+		"arse biscuit",
+		"arse factory"
 	];
 
 	var pronoun = "You";
