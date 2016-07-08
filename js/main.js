@@ -25,7 +25,8 @@ $(document).ready(function() {
 		"useless",
 		"brainless",
 		"tiny‑handed",
-		"sausage fingered"
+		"sausage fingered",
+		"scabby"
 	];
 
 	var adjectives2 = [
@@ -84,7 +85,9 @@ $(document).ready(function() {
 		"tool",
 		"arse wipe",
 		"wanksplat",
-		"rotter"
+		"rotter",
+		"elephant's bellend",
+		"fudgeknuckle"
 	];
 
 	var pronoun = "You";
