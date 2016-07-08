@@ -69,7 +69,7 @@ $(document).ready(function() {
 		"teggit",
 		"tube",
 		"helmet",
-		"clown"
+		"clown",
 		"nobberhead",
 		"wazzock",
 		"trombone",
