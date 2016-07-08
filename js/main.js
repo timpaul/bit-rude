@@ -42,7 +42,7 @@ $(document).ready(function() {
 		"orange faced",
 		"vacuum packed",
 		"gravity defying",
-		"tit fed"
+		"tit‑fed"
 	];
 
 	var nouns = [
@@ -98,11 +98,9 @@ $(document).ready(function() {
 
 	var adjective2 = adjectives2[Math.floor(Math.random()*adjectives2.length)];
 
-	var adjectivePhrase = adjective1 + " " + adjective2;
-
 	var noun = nouns[Math.floor(Math.random()*nouns.length)];
 
-	var insultPhrase = pronoun + " " + adjectivePhrase + " " + noun;
+	var insultPhrase = pronoun + " " + adjective1 + " " + adjective2 + " " + noun;
 
 	$('.insult').contents().last()[0].textContent=insultPhrase;
 
