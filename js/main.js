@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 	var adjectives1 = [
-		"", "", "", "", "", "",
+		"","","","","","","","",
 		"massive",
 		"gigantic",
 		"total",
@@ -30,7 +30,7 @@ $(document).ready(function() {
 	];
 
 	var adjectives2 = [
-		"", "", "", "", "",
+		"","","","","","","",
 		"fucking",
 		"boil‑in‑the‑bag",
 		"arse‑cheeked",
