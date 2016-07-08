@@ -83,7 +83,8 @@ $(document).ready(function() {
 		"bigot",
 		"tool",
 		"arse wipe",
-		"wanksplat"
+		"wanksplat",
+		"rotter"
 	];
 
 	var pronoun = "You";
