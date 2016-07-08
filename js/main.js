@@ -6,6 +6,7 @@ $(document).ready(function() {
 		"gigantic",
 		"total",
 		"enourmous",
+		"great crested",
 		"colossal",
 		"absolute",
 		"stupid",
@@ -78,7 +79,8 @@ $(document).ready(function() {
 		"arse biscuit",
 		"arse factory",
 		"bigot",
-		"tool"
+		"tool",
+		"arse wipe"
 	];
 
 	var pronoun = "You";
