@@ -14,7 +14,9 @@ $(document).ready(function() {
 		"incompetent",
 		"reprehensible",
 		"back stabbing",
-		"great"
+		"great",
+		"weapons-grade",
+		"witless"
 	];
 
 	var adjectives2 = [
@@ -30,9 +32,11 @@ $(document).ready(function() {
 		"rent‑a‑clown",
 		"plum",
 		"cockwomble",
+		"cocksplat",
 		"fuckmuppet",
 		"muppet",
 		"spunktrumpet",
+		"fuck trumpet",
 		"bollock‑wagon",
 		"arsebadger",
 		"jizzmonger",
@@ -46,7 +50,10 @@ $(document).ready(function() {
 		"tube",
 		"helmet",
 		"nobberhead",
-		"wazzock"
+		"wazzock",
+		"trombone",
+		"numpty",
+		"tit"
 	];
 
 	var pronoun = "You";
