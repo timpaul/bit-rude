@@ -38,7 +38,9 @@ $(document).ready(function() {
 		"spam faced",
 		"garden‑variety",
 		"cack-handed",
-		"orange faced"
+		"orange faced",
+		"vacuum packed",
+		"gravity defying"
 	];
 
 	var nouns = [
