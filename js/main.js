@@ -36,7 +36,8 @@ $(document).ready(function() {
 		"ventriloquist‑dummy‑faced",
 		"spam faced",
 		"garden‑variety",
-		"cack-handed"
+		"cack-handed",
+		"orange faced"
 	];
 
 	var nouns = [
@@ -68,6 +69,7 @@ $(document).ready(function() {
 		"teggit",
 		"tube",
 		"helmet",
+		"clown"
 		"nobberhead",
 		"wazzock",
 		"trombone",
