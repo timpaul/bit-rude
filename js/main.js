@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 	var adjectives1 = [
-		"", "", "", "",
+		"", "", "", "", "",
 		"massive",
 		"gigantic",
 		"total",
@@ -19,22 +19,32 @@ $(document).ready(function() {
 		"witless",
 		"hateful",
 		"low-rent",
-		"spineless"
+		"spineless",
+		"bandy legged",
+		"useless",
+		"brainless",
+		"tiny‑handed",
+		"sausage fingered"
 	];
 
 	var adjectives2 = [
-		"", "", "", "",
+		"", "", "", "", "",
 		"fucking",
 		"boil‑in‑the‑bag",
 		"arse‑cheeked",
+		"scratch‑and‑sniff",
 		"ventriloquist‑dummy‑faced",
 		"spam faced",
-		"garden-variety",
+		"garden‑variety",
 		"cack-handed"
 	];
 
 	var nouns = [
 		"rent‑a‑clown",
+		"fuck nugget",
+		"streak of piss",
+		"knob cheese",
+		"scrote",
 		"plum",
 		"cockwomble",
 		"cocksplat",
@@ -43,7 +53,9 @@ $(document).ready(function() {
 		"spunktrumpet",
 		"fuck trumpet",
 		"bollock‑wagon",
-		"arsebadger",
+		"shit monger",
+		"arse monger",
+		"arse badger",
 		"jizzmonger",
 		"tool‑bag",
 		"pork mannequin",
@@ -53,7 +65,7 @@ $(document).ready(function() {
 		"twat",
 		"bell",
 		"bellend",
-		"tegget",
+		"teggit",
 		"tube",
 		"helmet",
 		"nobberhead",
@@ -62,7 +74,9 @@ $(document).ready(function() {
 		"numpty",
 		"tit",
 		"arse biscuit",
-		"arse factory"
+		"arse factory",
+		"bigot",
+		"tool"
 	];
 
 	var pronoun = "You";
