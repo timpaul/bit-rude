@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
 	var adjectives1 = [
-		"", "", "", "", "",
+		"", "", "", "", "", "",
 		"massive",
 		"gigantic",
 		"total",
