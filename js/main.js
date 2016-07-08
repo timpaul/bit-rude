@@ -42,7 +42,8 @@ $(document).ready(function() {
 		"orange faced",
 		"vacuum packed",
 		"gravity defying",
-		"tit‑fed"
+		"tit‑fed",
+		"moon-faced"
 	];
 
 	var nouns = [
@@ -89,7 +90,9 @@ $(document).ready(function() {
 		"rotter",
 		"elephant's bellend",
 		"fudgeknuckle",
-		"bleeder"
+		"bleeder",
+		"bounder",
+		"twonk"
 	];
 
 	var pronoun = "You";
