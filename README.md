@@ -1,3 +1,3 @@
-# bit-rude
+# cockwombler
 
-[https://timpaul.github.io/bit-rude/](https://timpaul.github.io/bit-rude/)
+[cockwombler.herokuapp.com](cockwombler.herokuapp.com)
