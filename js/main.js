@@ -30,7 +30,7 @@ $(document).ready(function() {
 	];
 
 	var adjectives2 = [
-		"","","","","","","",
+		"","","","","","","","",
 		"fucking",
 		"boil‑in‑the‑bag",
 		"arse‑cheeked",
